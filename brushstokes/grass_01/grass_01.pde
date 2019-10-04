@@ -11,6 +11,7 @@ void setup() {
 
 
 void draw() {
+
 }
 
 
@@ -18,6 +19,7 @@ void draw() {
 void keyPressed() {
   background(255);
   drawGrass();
+    saveFrame();
 }
 
 
